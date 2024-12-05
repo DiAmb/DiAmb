@@ -1,9 +1,10 @@
-## Hi there 👋
+# Hi there, I'm $$USERNAME$$! 👋
 
 <!--
-**DiAmb/DiAmb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**$$USERNAME$$/$$USERNAME$$** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
-Here are some ideas to get you started:
+## About Me
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +14,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+## GitHub Stats
+
+![$$USERNAME$$'s GitHub stats](https://github-readme-stats.vercel.app/api?username=$$USERNAME$$&show_icons=true&theme=radical)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=$$USERNAME$$&layout=compact&theme=radical)
